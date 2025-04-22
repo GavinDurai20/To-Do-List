@@ -1,12 +1,6 @@
-Sure! Here's a clean and professional **GitHub README description** for your **To-Do List GUI App using Tkinter**:
-
----
-
 ## 📝 To-Do List GUI App (Python + Tkinter)
 
 A simple and interactive desktop To-Do List application built using **Python's Tkinter library**. This app allows you to add, delete, and mark tasks as complete, with all data stored persistently in a JSON file.
-
----
 
 ### 🚀 Features
 
@@ -16,8 +10,6 @@ A simple and interactive desktop To-Do List application built using **Python's T
 - 💾 Save tasks in a `todo_list.json` file
 - 🖥️ Simple and user-friendly GUI
 
----
-
 ### 📂 How It Works
 
 - The app loads tasks from a JSON file on startup.
@@ -25,21 +17,17 @@ A simple and interactive desktop To-Do List application built using **Python's T
 - Completed tasks are displayed with a ✅.
 - All tasks are saved automatically.
 
----
-
 ### 🛠️ Tech Stack
 
 - **Python 3**
 - **Tkinter** (built-in GUI module)
 - **JSON** for file-based data storage
 
----
 
 ### 📸 Screenshot
 
 > _Include a screenshot here_ (optional but highly recommended for GitHub)
 
----
 
 ### 📦 How to Run
 
